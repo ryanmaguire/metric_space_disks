@@ -13,6 +13,7 @@ in the plane. In particular, for all p greater than
 induced metric. The resulting unit disks are geometrically
 different for all p, even if they are topologically
 equivalent.
-![Euclidean Metric](https://math.dartmouth.edu/~rmaguire/assets/rainbow_sphere.png "Euclidean Metric")
 
-![Manhattan Metric](https://math.dartmouth.edu/~rmaguire/assets/diamond.png "Manhattan Metric")
+![Euclidean Metric](https://math.dartmouth.edu/~rmaguire/projects/metric_space_disks/rainbow_sphere.png "Euclidean Metric")
+
+![Manhattan Metric](https://math.dartmouth.edu/~rmaguire/projects/metric_space_disks/diamond.png "Manhattan Metric")
