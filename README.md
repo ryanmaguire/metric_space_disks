@@ -14,6 +14,6 @@ induced metric. The resulting unit disks are geometrically
 different for all p, even if they are topologically
 equivalent.
 
-![Euclidean Metric](https://math.dartmouth.edu/~rmaguire/projects/metric_space_disks/rainbow_sphere.png "Euclidean Metric")
+![Euclidean Metric](https://github.com/ryanmaguire/metric_space_disks/blob/main/assets/rainbow_sphere.png "Euclidean Metric")
 
-![Manhattan Metric](https://math.dartmouth.edu/~rmaguire/projects/metric_space_disks/diamond.png "Manhattan Metric")
+![Manhattan Metric](https://github.com/ryanmaguire/metric_space_disks/blob/main/assets/diamond.png "Manhattan Metric")
